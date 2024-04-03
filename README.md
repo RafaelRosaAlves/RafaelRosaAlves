@@ -7,12 +7,12 @@
 - 👯 Estou aberto para colaborar em projetos acadêmicos, comunidades e discussões dentro de minha área, afim de expandir meu conhecimento. 
 - 💬 Vamos conversar sobre algorítmos, pensamento analítico, Inteligência Artificial e análise de Bancos de Dados.
 - ⚡ Curiosidade: Estou sempre disposto a ajudar interessados com meus conhecimentos, e poder aprender com pessoas mais experientes da área.
+- 📫 Contate-me: [rafasipas18@gmail.com]
 
 ## Meus Interesses
 Possuo forte interesse em métodos de Análise de Dados, Estatística e Probabilidade, para auxilio na tomada de Decisão e Insights.
 Além disto, tenho facínio pela tecnologia e seu aprimoramento em estratégias de Aprendizado de Máquina e Deep Learning.
 
 ## Fale Comigo
-- [Gmail](rafasipas18@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/rafael-rosa-alves-5796032a8/)
 - [Instagram](https://www.instagram.com/rafael.rosakkkjk/)
