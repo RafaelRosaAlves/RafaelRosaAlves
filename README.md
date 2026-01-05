@@ -15,5 +15,3 @@ Além disto, tenho facínio pela tecnologia e seu aprimoramento em estratégias 
 ## Fale Comigo
 - [Linkedin](https://www.linkedin.com/in/rafael-rosa-alves-5796032a8/)
 - [Instagram](https://www.instagram.com/rafa.z3tta/)
-- [Gmail](rafasipas18@gmail.com)
-- 
