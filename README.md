@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-- ou estudante do 5° semestre do cursos de Bacharelado em Ciência de Dados, Machine Learning e Inteligência Artificial, no Centro Universitário de Brasília (UniCEUB-DF). 
+- Estudante do 5° semestre do cursos de Bacharelado em Ciência de Dados, Machine Learning e Inteligência Artificial, no Centro Universitário de Brasília (UniCEUB-DF). 
 - Atualmente, me especializando na Linguagem Python e SQL, e iniciando meus estudos na linguagem R. 
 - Estou aberto para colaborar em projetos acadêmicos, comunidades e discussões dentro de minha área, afim de expandir meu conhecimento. 
 - Estou sempre disposto a ajudar interessados com meus conhecimentos, e poder aprender com pessoas mais experientes da área.
